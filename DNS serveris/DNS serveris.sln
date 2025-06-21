@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DNS serveris", "DNS serveris\DNS serveris.vcxproj", "{D716B43F-BE01-49A7-B363-B106BED73C0B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDP client", "UDP client\UDP client.vcxproj", "{06DD38C5-617A-44C0-A7D9-571D62AFDC82}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDP server", "UDP server\UDP server.vcxproj", "{98D116B4-2E01-46BA-A477-9C012F3D6EF2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Clean DNS server", "Clean DNS server\Clean DNS server.vcxproj", "{589B102A-5FE8-492C-A3F4-66A9595EAE56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D716B43F-BE01-49A7-B363-B106BED73C0B}.Debug|x64.ActiveCfg = Debug|x64
+		{D716B43F-BE01-49A7-B363-B106BED73C0B}.Debug|x64.Build.0 = Debug|x64
+		{D716B43F-BE01-49A7-B363-B106BED73C0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{D716B43F-BE01-49A7-B363-B106BED73C0B}.Debug|x86.Build.0 = Debug|Win32
+		{D716B43F-BE01-49A7-B363-B106BED73C0B}.Release|x64.ActiveCfg = Release|x64
+		{D716B43F-BE01-49A7-B363-B106BED73C0B}.Release|x64.Build.0 = Release|x64
+		{D716B43F-BE01-49A7-B363-B106BED73C0B}.Release|x86.ActiveCfg = Release|Win32
+		{D716B43F-BE01-49A7-B363-B106BED73C0B}.Release|x86.Build.0 = Release|Win32
+		{06DD38C5-617A-44C0-A7D9-571D62AFDC82}.Debug|x64.ActiveCfg = Debug|x64
+		{06DD38C5-617A-44C0-A7D9-571D62AFDC82}.Debug|x64.Build.0 = Debug|x64
+		{06DD38C5-617A-44C0-A7D9-571D62AFDC82}.Debug|x86.ActiveCfg = Debug|Win32
+		{06DD38C5-617A-44C0-A7D9-571D62AFDC82}.Debug|x86.Build.0 = Debug|Win32
+		{06DD38C5-617A-44C0-A7D9-571D62AFDC82}.Release|x64.ActiveCfg = Release|x64
+		{06DD38C5-617A-44C0-A7D9-571D62AFDC82}.Release|x64.Build.0 = Release|x64
+		{06DD38C5-617A-44C0-A7D9-571D62AFDC82}.Release|x86.ActiveCfg = Release|Win32
+		{06DD38C5-617A-44C0-A7D9-571D62AFDC82}.Release|x86.Build.0 = Release|Win32
+		{98D116B4-2E01-46BA-A477-9C012F3D6EF2}.Debug|x64.ActiveCfg = Debug|x64
+		{98D116B4-2E01-46BA-A477-9C012F3D6EF2}.Debug|x64.Build.0 = Debug|x64
+		{98D116B4-2E01-46BA-A477-9C012F3D6EF2}.Debug|x86.ActiveCfg = Debug|Win32
+		{98D116B4-2E01-46BA-A477-9C012F3D6EF2}.Debug|x86.Build.0 = Debug|Win32
+		{98D116B4-2E01-46BA-A477-9C012F3D6EF2}.Release|x64.ActiveCfg = Release|x64
+		{98D116B4-2E01-46BA-A477-9C012F3D6EF2}.Release|x64.Build.0 = Release|x64
+		{98D116B4-2E01-46BA-A477-9C012F3D6EF2}.Release|x86.ActiveCfg = Release|Win32
+		{98D116B4-2E01-46BA-A477-9C012F3D6EF2}.Release|x86.Build.0 = Release|Win32
+		{589B102A-5FE8-492C-A3F4-66A9595EAE56}.Debug|x64.ActiveCfg = Debug|x64
+		{589B102A-5FE8-492C-A3F4-66A9595EAE56}.Debug|x64.Build.0 = Debug|x64
+		{589B102A-5FE8-492C-A3F4-66A9595EAE56}.Debug|x86.ActiveCfg = Debug|Win32
+		{589B102A-5FE8-492C-A3F4-66A9595EAE56}.Debug|x86.Build.0 = Debug|Win32
+		{589B102A-5FE8-492C-A3F4-66A9595EAE56}.Release|x64.ActiveCfg = Release|x64
+		{589B102A-5FE8-492C-A3F4-66A9595EAE56}.Release|x64.Build.0 = Release|x64
+		{589B102A-5FE8-492C-A3F4-66A9595EAE56}.Release|x86.ActiveCfg = Release|Win32
+		{589B102A-5FE8-492C-A3F4-66A9595EAE56}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BCA1362-31DE-48F6-B859-C9AB2281333F}
+	EndGlobalSection
+EndGlobal
